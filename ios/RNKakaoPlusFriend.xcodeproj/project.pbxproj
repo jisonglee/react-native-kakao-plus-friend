@@ -111,6 +111,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 58B511D21A9E6C8500147676;
@@ -237,6 +238,7 @@
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/Frameworks/**",
+					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../node_modules/react-native/React/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
@@ -260,6 +262,7 @@
 					"$(SRCROOT)/../../../React/**",
 					"$(SRCROOT)/../../react-native/React/**",
 					"$(SRCROOT)/Frameworks/**",
+					"$(SRCROOT)/../../node_modules/react-native/React/**",
 					"$(SRCROOT)/../node_modules/react-native/React/**",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
